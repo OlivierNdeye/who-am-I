@@ -1,4 +1,4 @@
-## Sudações Terraqueos 🖖 
+## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Estudante Front-End - HTML | CSS | JS | VUE.JS
 
 - 🔭 Estou trabalhando atualmente com Advanced Excell 
 - 🌱 estou aprendendo sobre Front-end
