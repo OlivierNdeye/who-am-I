@@ -1,10 +1,10 @@
 ## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Front-End Studant  
 
-- 🔭 Estou trabalhando atualmente com Advanced Excell 
+- 🔭 Estou trabalhando atualmente com Advanced Excel
 - 🌱 estou aprendendo sobre Front-end
+- 🌱 Linguagem que conheço: HTML, Javascript e C#
 - 📫 me encontre pelo e-mail: oliviersndeye@gmail.com
-- 😄 Pronomes + usados: ele/dele
-- ⚡ Fatos Engraçados: Aprendia a criar uma "nova pasta" no windows antes de aprender a ler ! haha
+- ⚡ Fatos Engraçados: Aprendi a criar uma "nova pasta" no windows antes de aprender a ler ! haha
 
 <div align="center">
   <a href="https://github.com/OlivierNdeye">
