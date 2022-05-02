@@ -1,4 +1,4 @@
-## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Front-End Studant  
+## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Front-End Developer REACT 
 
 - 🔭 Estou trabalhando atualmente com Advanced Excel
 - 🌱 estou aprendendo sobre Front-end
