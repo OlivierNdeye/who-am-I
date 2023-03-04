@@ -1,6 +1,6 @@
 ## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Front-End Developer REACT 
 
-- 🔭 Estou trabalhando atualmente com Advanced Excel
+- 🔭 Estou trabalhando atualmente com Soluções para Web
 - 🌱 estudando os principais conceitos de Desenvolvimento Front-end
 - 🌱 Linguagem que conheço: Reactjs, Python e postSQL 
 - 📫 me encontre pelo e-mail: oliviersndeye@gmail.com
