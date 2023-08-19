@@ -2,7 +2,7 @@
 
 - 🔭 Estou trabalhando atualmente com Soluções para Web
 - 🌱 estudando os principais conceitos de Desenvolvimento Front-end
-- 🌱 Linguagem que conheço: Reactjs, Python e postSQL 
+- 🌱 Linguagem que conheço: PHP, Reactjs, Python e SQL Server 
 - 📫 me encontre pelo e-mail: oliviersndeye@gmail.com
 - ⚡ Fatos Engraçados: Aprendi a criar uma "nova pasta" no windows antes de aprender a ler ! haha
 
