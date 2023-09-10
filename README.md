@@ -1,8 +1,8 @@
 ## Sudações Terraqueos 🖖 me chamo OLIVIER NDEYE - Front-End Developer  
 
 - 🔭 Estou trabalhando atualmente com Soluções para Web
-- 🌱 estudando os principais conceitos de Desenvolvimento Front-end
-- 🌱 Linguagem que conheço: PHP, Reactjs, Python e SQL Server 
+- 🌱 estudando os principais conceitos de Desenvolvimento web
+- 🌱 Linguagem que conheço: PHP, Reactjs, Python e MySQL
 - 📫 me encontre pelo e-mail: oliviersndeye@gmail.com
 - ⚡ Fatos Engraçados: Aprendi a criar uma "nova pasta" no windows antes de aprender a ler ! haha
 
